@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.sqlbook": "sql",
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "*.js": "javascriptreact",
+        "*.prisma": "prisma",
+        "*.embeddedhtml": "html",
+        "thread": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

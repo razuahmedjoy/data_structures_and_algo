@@ -1,0 +1,15 @@
+I
+love
+football
+He
+loves
+football
+you
+love
+football
+He 1
+I 1
+football 3
+love 2
+loves 1
+you 1
